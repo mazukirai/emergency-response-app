@@ -1,3 +1,3 @@
 # emergencyresponse
 
-A new Flutter project.
+an app that finds the nearest evacuation center and nearest emergency hotline and call them
